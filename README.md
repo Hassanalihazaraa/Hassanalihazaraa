@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Java
-- 🌱 I’m currently learning ... Java
+- 🔭 I’m currently working on ... Python
+- 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ... your project
 - 🤔 I’m looking for help with ... learning new technologies
 - 💬 Ask me about ... anything (related to tech)
